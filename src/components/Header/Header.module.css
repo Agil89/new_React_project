@@ -1,0 +1,8 @@
+.heading img{
+  width: 60px;
+}
+
+.heading{
+  background-color: aqua;
+  grid-area: h;
+}

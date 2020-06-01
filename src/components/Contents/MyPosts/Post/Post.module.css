@@ -1,0 +1,10 @@
+.item{
+  color: blue;
+  align-items: center;
+  display: flex;
+}
+
+.item img{
+  width: 20px;
+  border-radius: 75px;
+}
